@@ -1,1 +1,2 @@
 Working on the ecommerce project
+Changes made in the index file
